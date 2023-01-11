@@ -94,5 +94,5 @@ Process finished with exit code 0.
 ```
 Hint: Define a recursive function
 
-[solution](Fibonacci.py)
+[solution](fibonacci.py)
 

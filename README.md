@@ -23,6 +23,8 @@ Your BMI is 22, you have a normal weight
 Process finished with exit code 0 
 ```
 
+[solution](Bmicalculator.py)
+
 # 2.	Factor Finder
 This program finds the factors of a given number.
 Write a python program that takes a number and outputs the factors of the number.
@@ -35,6 +37,8 @@ factors of 150 are 1,2,3,5,6,10,15,25,30,50,75,150.
 
 Process finished with exit code 0 
 ```
+
+[solution](factor_finder.py)
 
 # 3.	Jungle Language Translator
 Where I’m from there is a language called jungle language which is simply tweaked English Language.
@@ -53,6 +57,8 @@ Beauty Is Terror
 Process finished with exit code 0.
 ```
 
+[solution](jungle_language_translator.py)
+
 # 4.	Leap Year Calculator
 This program takes a year and outputs “it’s a leap year” if it’s a leap year and otherwise if its not.
 A year is a leap year if it is evenly divided by 4 and it’s not evenly divided by 100.
@@ -70,6 +76,8 @@ This is a leap year
 Process finished with exit code 0.
 ```
 
+[solution](leap_year_calculator.py)
+
 # 5.	Fibonacci
 The Fibonacci Sequence is based on the following formula:
 f(n) = 0, if n = 0 
@@ -85,3 +93,6 @@ output:
 Process finished with exit code 0.
 ```
 Hint: Define a recursive function
+
+[solution](Fibonacci.py)
+

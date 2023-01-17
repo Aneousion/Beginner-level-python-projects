@@ -96,3 +96,24 @@ Hint: Define a recursive function
 
 [solution](fibonacci.py)
 
+# 6. Text To Morse Code Converter
+6.	Text to morse code and vice versa
+Read this article on morse codes and write a program that converts plain text to morse code and morse codes to plain text.
+Example:
+ ```
+Type 'ttm' for text to morse code, 'mtt' for morse to text and 'q' to quit:
+ttm
+Text: hello world 123
+.... . .-.. .-.. --- / .-- --- .-. .-.. -.. / .---- ..--- ...-- 
+Type 'ttm' for text to morse code, 'mtt' for morse to text and 'q' to quit:
+mtt
+morse: .... . .-.. .-.. --- / .-- --- .-. .-.. -.. / .---- ..--- ...--
+HELLO WORLD 123
+Type 'ttm' for text to morse code, 'mtt' for morse to text and 'q' to quit:
+q
+
+Process finished with exit code 0
+
+```
+Hint: Define a function for text to morse and another for morse to text.
+[solution](text_to_morse_converter.py)

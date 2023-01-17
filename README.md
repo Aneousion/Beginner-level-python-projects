@@ -97,8 +97,8 @@ Hint: Define a recursive function
 [solution](fibonacci.py)
 
 # 6. Text To Morse Code Converter
-6.	Text to morse code and vice versa
-Read this article on morse codes and write a program that converts plain text to morse code and morse codes to plain text.
+A program that converts plain text to morse code and vice versa.
+Read this [article](https://en.wikipedia.org/wiki/Morse_code) on morse codes and write a program that converts plain text to morse code and morse codes to plain text.
 Example:
  ```
 Type 'ttm' for text to morse code, 'mtt' for morse to text and 'q' to quit:

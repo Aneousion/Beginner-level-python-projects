@@ -116,4 +116,5 @@ Process finished with exit code 0
 
 ```
 Hint: Define a function for text to morse and another for morse to text.
+
 [solution](text_to_morse_code.py)
